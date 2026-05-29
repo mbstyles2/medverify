@@ -72,7 +72,7 @@ export const Footer: React.FC = () => {
           <p>© {new Date().getFullYear()} MedVerify Global. All rights reserved.</p>
           <p className="flex items-center mt-2 sm:mt-0 space-x-1">
             <span>Powered by</span>
-            <span className="text-teal-400 font-semibold">Gemini 3.5 AI Core</span>
+            <span className="text-teal-400 font-semibold">Raveagles</span>
           </p>
         </div>
       </div>
